@@ -84,6 +84,7 @@ set(LLVM_ALL_TARGETS
   NVPTX
   PowerPC
   Sparc
+  TGSI
   X86
   XCore
   )
